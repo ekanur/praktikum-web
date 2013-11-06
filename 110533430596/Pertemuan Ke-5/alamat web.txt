@@ -1,1 +1,5 @@
 http://www.gueeka.com/app_db/
+
+login info:
+username:admin
+pass:admin
